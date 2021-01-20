@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "legitmod:legitimite_ingot"
+        }
+    },
+    "result": {
+        "item": "legitmod:legitimite_block",
+        "count": 1
+    }
+}

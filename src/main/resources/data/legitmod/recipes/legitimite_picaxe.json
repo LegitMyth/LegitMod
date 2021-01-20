@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "legitmod:legitimite_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "/": {
+            "item": "legitmod:legitimite_ingot"
+        }
+    },
+    "result": {
+        "item": "legitmod:legitimite_picaxe",
+        "count": 1
+    }
+}

@@ -1,0 +1,66 @@
+modLoader="javafml"
+loaderVersion="[35,)" 
+license="All rights reserved"
+
+[[mods]]
+modId="legitmod" 
+version="1.0" 
+displayName="Legit Mod"
+credits="These are some cool credits bro"
+authors="LegitMyth for programming. TheKnown for the textures"
+description='''
+This is a mod for testing and learning. I am just trying to learn how to make mods :D
+
+Austin.. Yes both Austins.. 
+
+
+
+
+keep reading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you can do it!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+keep going....
+
+
+
+
+
+
+
+you suck.
+jk <3
+'''

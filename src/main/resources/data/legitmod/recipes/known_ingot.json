@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "DED",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "E": {
+            "item": "legitmod:legitimite_ingot"
+        }
+    },
+    "result": {
+        "item": "legitmod:known_ingot",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "legitmod:legitimite_ore"
+    },
+    "result": "legitmod:legitimite_ingot",
+    "experience": 0.2,
+    "cookingtime": 200
+}
